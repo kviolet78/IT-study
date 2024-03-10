@@ -1,0 +1,19 @@
+/* 셀렉터 - 꾸며줄 대상을 선택! */
+body {
+    font-family: "LG PC";
+}
+
+/* 클래스 셀렉터 */
+.main {
+    color: red;
+}
+.sub {
+    color: blue;
+}
+
+/* 아이디 셀렉터 */
+#useless {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
